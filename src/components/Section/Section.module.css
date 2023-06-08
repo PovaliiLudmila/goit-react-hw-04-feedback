@@ -1,0 +1,17 @@
+.feedback {
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+    margin-top: 50px;
+    width: 400px;
+    color: #386799;
+    border-radius: 1px;
+    background-color: rgb(240, 218, 218);
+    box-shadow: rgba(33, 194, 194, 0.1)
+}
+  .feedback_title {
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    padding: 20px 0 20px 0;
+  }
